@@ -1,0 +1,9 @@
+app/
+Versiones_proyecto/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+expo/
+data/
+modelos/
+prueba_ia_text/
